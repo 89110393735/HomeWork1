@@ -1,4 +1,8 @@
 secret/Test/.idea/out/
+Test/
+.idea/
+out/
+*.iml
 
 
 
