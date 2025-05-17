@@ -1,3 +1,5 @@
-secret/ .idea/
-
+secret/
+.idea/
+*.iml
+out/
 
