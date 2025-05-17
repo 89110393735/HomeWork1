@@ -2,6 +2,7 @@ secret/
 idea/
 out/
 *.iml
+test/
 
 
 
