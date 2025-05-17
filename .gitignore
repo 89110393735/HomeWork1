@@ -1,7 +1,8 @@
 secret/
 Test/
-
-
+.idea/
+out/
+*.iml
 
 
 
